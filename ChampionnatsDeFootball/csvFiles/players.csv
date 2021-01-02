@@ -1,0 +1,198 @@
+1;Fernando Muslera;1;Uruguay;Goalkeeper;90;34;NULL;NULL;0
+2;Yuto Nagatomo;1;Japon;Defender;87;18;0;0;NULL
+3;Christian Luyindama;1;Congo;Defender;86;28;0;0;NULL
+4;Marcao;1;Brasil;Defender;87;38;0;0;NULL
+5;Mariano;1;Brasil;Defender;85;36;0;0;NULL
+6;Fernando;1;Brasil;Midfielder;87;38;0;0;NULL
+7;Badou Ndiaye;1;Senegal;Midfielder;88;22;0;0;NULL
+8;Younes Belhanda;1;Morocco;Midfielder;90;34;0;0;NULL
+9;Sofiane Feghouli;1;Algeria;Striker;89;24;0;0;NULL
+10;Mbaye Diagne;1;Senegal;Striker;88;28;0;0;NULL
+11;Henry Onyekuru;1;Nigeria;Striker;87;32;0;0;NULL
+12;Harun Tekin;2;Turkey;Goalkeeper;71;28;NULL;NULL;0
+13;Serdar Aziz;2;Turkey;Defender;72;23;0;0;NULL
+14;Martin Skrtel;2;Slovakia;Defender;75;31;0;0;NULL
+15;Sadik Ciftpinar;2;Turkey;Defender;70;28;0;0;NULL
+16;Hasan Ali Kaldirim;2;Turkey;Defender;80;28;0;0;NULL
+17;Jailson;2;Brasil;Midfielder;80;25;0;0;NULL
+18;Mehmet Topal;2;Turkey;Midfielder;80;23;0;0;NULL
+19;Eljif Elmas;2;Macedonia;Midfielder;78;30;0;0;NULL
+20;Andre Ayew;2;Ghana;Striker;78;33;0;0;NULL
+21;Roberto Soldado;2;Spain;Striker;70;37;0;0;NULL
+22;Victor Moses;2;Nigeria;Striker;71;36;0;0;NULL
+23;Okan kocuk;3;Turkey;Goalkeeper;76;34;NULL;NULL;0
+24;Ertugrul Ersoy;3;Turkey;Defender;74;36;0;0;NULL
+25;Aurelien Chedjou;3;Cameroon;Defender;74;25;0;0;NULL
+26;Furkan Ozcan;3;Turkey;Defender;77;18;0;0;NULL
+27;Iasmin Latovlevici;3;Romania;Defender;75;31;0;0;NULL
+28;Henri Saivet;3;Senegal;Midfielder;78;33;0;0;NULL
+29;Yusuf Erdogan;3;Turkey;Midfielder;71;29;0;0;NULL
+30;Furkan Soyalp;3;Turkey;Midfielder;78;25;0;0;NULL
+31;Kubilay Kanatsizkus;3;Turkey;Striker;80;18;0;0;NULL
+32;Umut Nayir;3;Turkey;Striker;72;28;0;0;NULL
+33;Diafra Sakho;3;Senegal;Striker;71;24;0;0;NULL
+34;Serkan Kirintili;4;Turkey;Goalkeeper;79;21;NULL;NULL;0
+35;Ali Turan;4;Turkey;Defender;76;28;0;0;NULL
+36;Selim Ay;4;Turkey;Defender;77;30;0;0;NULL
+37;Nejc Skubic;4;Slovenia;Defender;72;26;0;0;NULL
+38;Ugur Demirok;4;Turkey;Defender;77;24;0;0;NULL
+39;Volkan Findikli;4;Turkey;Midfielder;79;29;0;0;NULL
+40;Ali Camdali;4;Turkey;Midfielder;77;30;0;0;NULL
+41;Paolo Hurtado;4;Peru;Midfielder;71;25;0;0;NULL
+42;Moryke Fofana;4;Ivory Coast;Striker;75;35;0;0;NULL
+43;Omer Ali Sahiner;4;Turkey;Striker;76;36;0;0;NULL
+44;Adis Jahovic;4;Macedonia;Striker;76;22;0;0;NULL
+45;Loris Karius;5;Germany;Goalkeeper;77;33;NULL;NULL;0
+46;Domagoj Vida;5;Croatia;Defender;73;31;0;0;NULL
+47;Adriano;5;Brasil;Defender;73;22;0;0;NULL
+48;Caner Erkin;5;Turkey;Defender;71;21;0;0;NULL
+49;Gokhan Gonul;5;Turkey;Defender;78;30;0;0;NULL
+50;Gary Medel;5;Chile;Midfielder;71;38;0;0;NULL
+51;Adem Ljajic;5;Serbia;Midfielder;71;26;0;0;NULL
+52;Shinji Kagawa;5;Japon;Midfielder;82;25;0;0;NULL
+53;Ricardo Quaresma;5;Portugal;Striker;72;25;0;0;NULL
+54;Burak Yilmaz;5;Turkey;Striker;72;18;0;0;NULL
+55;Jeremain Lens;5;Netherlands;Striker;73;24;0;0;NULL
+56;Ugurcan Cakir;6;Turkey;Goalkeeper;72;24;NULL;NULL;0
+57;Huseyin Turkmen;6;Turkey;Defender;80;23;0;0;NULL
+58;Luis Ibanez;6;Argentina;Defender;73;26;0;0;NULL
+59;Joao Pereira;6;Portugal;Defender;76;29;0;0;NULL
+60;Filip Novak;6;Czech Republic;Defender;71;24;0;0;NULL
+61;Jose Sosa;6;Argentina;Midfielder;71;27;0;0;NULL
+62;Abdulkadir Omur;6;Turkey;Midfielder;80;25;0;0;NULL
+63;Yusuf Yazici;6;Turkey;Midfielder;73;22;0;0;NULL
+64;Caleb Ekuban;6;Ghana;Striker;80;29;0;0;NULL
+65;Hugo Rodallega;6;Colombia;Striker;73;28;0;0;NULL
+66;Anthony Nwakaeme;6;Nigeria;Striker;73;22;0;0;NULL
+67;Vedat Karakus;7;Turkey;Goalkeeper;73;34;NULL;NULL;0
+68;Atila Turan;7;Turkey;Defender;74;22;0;0;NULL
+69;Sakib Aytac;7;Turkey;Defender;79;26;0;0;NULL
+70;Cristian Sapunaru;7;Romania;Defender;71;34;0;0;NULL
+71;Levent Gulen;7;Turkey;Defender;74;25;0;0;NULL
+72;Bernard Mensah;7;Ghana;Midfielder;71;25;0;0;NULL
+73;Seniz Turuc;7;Turkey;Midfielder;80;34;0;0;NULL
+74;Mert Ozyildirim;7;Turkey;Midfielder;78;18;0;0;NULL
+75;Bilal Basacikoglu;7;Turkey;Striker;77;31;0;0;NULL
+76;Umut Bulut;7;Turkey;Striker;76;28;0;0;NULL
+77;Asamoah Gyan;7;Ghana;Striker;70;29;0;0;NULL
+78;Ruud Boffin;8;Belgium;Goalkeeper;73;27;NULL;NULL;0
+79;Nazim Sangare;8;Turkey;Defender;77;32;0;0;NULL
+80;Bahadir Ozturk;8;Turkey;Defender;72;19;0;0;NULL
+81;Aly Cissokho;8;Senegal;Defender;78;21;0;0;NULL
+82;Tarik Camdal;8;Turkey;Defender;73;19;0;0;NULL
+83; Yekta Kurtulus;8;Turkey;Midfielder;81;20;0;0;NULL
+84;Zeki Yildirim;8;Turkey;Midfielder;76;33;0;0;NULL
+85;Charles;8;Brasil;Midfielder;71;18;0;0;NULL
+86; Mevlut Erdinc;8;Turkey;Striker;72;34;0;0;NULL
+87;Amilton;8;Brasil;Striker;71;23;0;0;NULL
+88;Souleymane Doukara;8;Senegal;Striker;79;23;0;0;NULL
+89;Ali Sasal Vural;9;Turkey;Goalkeeper;73;30;NULL;NULL;0
+90;Ugur Ciftci;9;Turkey;Defender;70;35;0;0;NULL
+91;Douglas;9;Brasil;Defender;82;25;0;0;NULL
+92;Paul Papp;9;Romania;Defender;76;18;0;0;NULL
+93;Fatih Aksoy;9;Turkey;Defender;71;31;0;0;NULL
+94;Delvin N'Dinga;9;Congo;Midfielder;81;30;0;0;NULL
+95;Hakan Arslan;9;Turkey;Midfielder;79;24;0;0;NULL
+96;Emre Kilinc;9;Turkey;Midfielder;79;32;0;0;NULL
+97;Muhammet Demir;9;Turkey;Striker;70;31;0;0;NULL
+98;Arouna Kone;9;Ivory Coast;Striker;78;18;0;0;NULL
+99;Fousseini Diabate;9;Mali;Striker;77;34;0;0;NULL
+100;Ertac Ozbir;10;Turkey;Goalkeeper;76;32;NULL;NULL;0
+101;Mustafa Akbas;10;Turkey;Defender;72;29;0;0;NULL
+102;Erkan Kas;10;Turkey;Defender;82;20;0;0;NULL
+103;Murat Akca;10;Turkey;Defender;76;32;0;0;NULL
+104;Yigithan Guveli;10;Turkey;Defender;81;21;0;0;NULL
+105;Baris Alici;10;Turkey;Midfielder;80;28;0;0;NULL
+106;Mitchell Donald;10;Netherlands;Midfielder;75;32;0;0;NULL
+107;Murat Yildirim;10;Turkey;Midfielder;81;23;0;0;NULL
+108;Thievy Bifouma;10;Congo;Striker;70;38;0;0;NULL
+109;Aboubakar Kamara;10;France;Striker;72;25;0;0;NULL
+110;Adem Buyuk;10;Turkey;Striker;78;38;0;0;NULL
+111;Ibrahim Sehic;11;Bosnia-Herzegovina;Goalkeeper;70;25;NULL;NULL;0
+112;Egemen Korkmaz;11;Turkey;Defender;82;20;0;0;NULL
+113;Serkan Kurtulus;11;Turkey;Defender;70;31;0;0;NULL
+114;Hakan Arslan;11;Turkey;Defender;71;23;0;0;NULL
+115;Tolga Unlu;11;Turkey;Defender;71;25;0;0;NULL
+116;Moussa Kone;11;Ivory Coast;Midfielder;73;18;0;0;NULL
+117;Jasmin Scuk;11;Bosnia-Herzegovina;Midfielder;78;25;0;0;NULL
+118;Sefa Akgun;11;Turkey;Midfielder;81;22;0;0;NULL
+119;Ridge Munsy;11;Congo;Striker;73;35;0;0;NULL
+120;Rashad Muhammed;11;France;Striker;72;20;0;0;NULL
+121;Samuel Eduok;11;Nigeria;Striker;79;30;0;0;NULL
+122;Altay Bayindir;12;Turkey;Goalkeeper;74;27;NULL;NULL;0
+123;Thomas Heurtaux;12;France;Defender;72;36;0;0;NULL
+124;Yalcin Ayhan;12;Turkey;Defender;82;36;0;0;NULL
+125;Tiago Pinto;12;Portugal;Defender;72;23;0;0;NULL
+126;Stelio Kitsiou;12;Greece;Defender;72;18;0;0;NULL
+127;Thibault Moulin;12;France;Midfielder;76;30;0;0;NULL
+128;Oscar Scarione;12;Argentina;Midfielder;74;22;0;0;NULL
+129;Hector Canteros;12;Argentina;Midfielder;79;24;0;0;NULL
+130;Aydin Karabulut;12;Turkey;Striker;80;20;0;0;NULL
+131;Hadi Sacko;12;Mali;Striker;77;24;0;0;NULL
+132;Nduka Ozokwo;12;Nigeria;Striker;73;34;0;0;NULL
+133;Mert Gunok;13;Turkey;Goalkeeper;76;28;NULL;NULL;0
+134;Joseph Attamah;13;Ghana;Defender;79;29;0;0;NULL
+135;Serdar Tasci;13;Germany;Defender;81;24;0;0;NULL
+136;Gael Clichy;13;France;Defender;78;31;0;0;NULL
+137;Junior Caicara;13;Brasil;Defender;74;33;0;0;NULL
+138;Emre Belozoglu;13;Turkey;Midfielder;76;23;0;0;NULL
+139;Gokhan Inler;13;Switzerland;Midfielder;79;37;0;0;NULL
+140;Edin Visca;13;Bosnia-Herzegovina;Midfielder;77;26;0;0;NULL
+141;Eljero Elia;13;Netherlands;Striker;79;30;0;0;NULL
+142;Emmanuel Adebayor;13;Togo;Striker;81;21;0;0;NULL
+143;Robinho;13;Brasil;Striker;76;18;0;0;NULL
+144;Gokhan Akkan;14;Turkey;Goalkeeper;71;19;NULL;NULL;0
+145;Chidozie Awaziem;14;Nigeria;Defender;77;31;0;0;NULL
+146;Mehmet Uslu;14;Turkey;Defender;75;29;0;0;NULL
+147;Orhan Ovacikli;14;Turkey;Defender;82;38;0;0;NULL
+148;Mykola Moroziuk;14;Ukrania;Defender;79;32;0;0;NULL
+149;Okechukwu Azubuike;14;Nigeria;Midfielder;79;27;0;0;NULL
+150;Abdullah Durak;14;Turkey;Midfielder;71;30;0;0;NULL
+151;Cinar Tarhan;14;Turkey;Midfielder;79;36;0;0;NULL
+152;Aminu Umar;14;Nigeria;Striker;82;30;0;0;NULL
+153;Prejuce Nakoulma;14;Burkina Faso;Striker;74;23;0;0;NULL
+154;Vedat Muriqi;15;Kosovo;Striker;82;37;0;0;NULL
+155;Ramazan Kose;15;Turkey;Goalkeeper;76;19;NULL;NULL;0
+156;Syam Ben Youssef;15;Tunisia;Defender;77;20;0;0;NULL
+157;Veysel Sari;15;Turkey;Defender;79;29;0;0;NULL
+158;Ugurcan Yazgili;15;Turkey;Defender;70;34;0;0;NULL
+159;Cagtay Kurukalip;15;Turkey;Defender;79;24;0;0;NULL
+160;Hasan Bilal;15;Turkey;Midfielder;75;25;0;0;NULL
+161;David Pavelka;15;Czech Republic;Midfielder;77;34;0;0;NULL
+162;Ilhan Depe;15;Turkey;Midfielder;75;31;0;0;NULL
+163;Trezeguet;15;Egypt;Striker;73;18;0;0;NULL
+164;Azad Toptik;15;Turkey;Striker;82;20;0;0;NULL
+165;Bengali-Fode Koita;15;Guinea;Striker;71;28;0;0;NULL
+166;Beto;16;Portugal;Goalkeeper;74;35;NULL;NULL;0
+167;Titi;16;Brasil;Defender;80;37;0;0;NULL
+168;Wallace Reis;16;Brasil;Defender;82;20;0;0;NULL
+169;Kadu;16;Brasil;Defender;79;26;0;0;NULL
+170;Fausto Grillo;16;Argentina;Defender;75;20;0;0;NULL
+171;Halil Akbunar;16;Turkey;Midfielder;82;27;0;0;NULL
+172;Yalcin Kayan;16;Turkey;Midfielder;77;34;0;0;NULL
+173;Celso Borges;16;Brasil;Midfielder;81;19;0;0;NULL
+174;Yasin Oztekin;16;Turkey;Striker;71;28;0;0;NULL
+175;Serdar Gurler;16;Turkey;Striker;72;25;0;0;NULL
+176;Yoan Gouffran;16;France;Striker;73;35;0;0;NULL
+177;Milan Lukac;17;Serbia;Goalkeeper;72;37;NULL;NULL;0
+178;Mustafa Yumlu;17;Turkey;Defender;70;30;0;0;NULL
+179;Dany Nounkeu;17;Cameroon;Defender;82;21;0;0;NULL
+180;Kadir Keles;17;Turkey;Defender;74;36;0;0;NULL
+181;Miguel Lopes;17;Portugal;Defender;81;23;0;0;NULL
+182;Abdoul Sissoko;17;Mali;Midfielder;82;23;0;0;NULL
+183;Guray Vural;17;Turkey;Midfielder;70;19;0;0;NULL
+184;Bilal Kisa;17;Turkey;Midfielder;74;27;0;0;NULL
+185;Sokol Cikalleshi;17;Albania;Striker;72;20;0;0;NULL
+186;Onur Ayik;17;Turkey;Striker;76;20;0;0;NULL
+187;Jeremy Bokila;17;Congo;Striker;70;31;0;0;NULL
+188;Ufuk Ceylan;18;Turkey;Goalkeeper;76;38;NULL;NULL;0
+189;Welinton;18;Brasil;Defender;74;28;0;0;NULL
+190;Baiano;18;Brasil;Defender;80;35;0;0;NULL
+191;Georgios Tzavellas;18;Greece;Defender;81;28;0;0;NULL
+192;Steven Caulker;18;England;Defender;82;31;0;0;NULL
+193;Ceyhun Gulselam;18;Turkey;Midfielder;74;18;0;0;NULL
+194;Ozan Tufan;18;Turkey;Midfielder;76;28;0;0;NULL
+195;Joel Obi;18;Nigeria;Midfielder;74;32;0;0;NULL
+196;Junior Fernandes;18;Brasil;Striker;70;20;0;0;NULL
+197;Papiss Demba Cisse;18;Senegal;Striker;72;28;0;0;NULL
+198;Glynor Plet;18;Netherlands;Striker;81;18;0;0;NULL
